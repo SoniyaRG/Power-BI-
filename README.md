@@ -13,11 +13,15 @@ To contribute to the success of a business by utilizing data analysis techniques
 3.Used **DAX Query**<br>
 4.Created **Dashboard**,**KPI's**<br>
 
-
-![power bi](https://github.com/SoniyaRG/Power-BI-/assets/165175409/b0122a90-4627-4995-9fda-b19c985be454)
-![power bi central](https://github.com/SoniyaRG/Power-BI-/assets/165175409/074b7e1e-f30c-4ea9-9faf-fcfa72cd5015)
-![east](https://github.com/SoniyaRG/Power-BI-/assets/165175409/8a4d44f1-91d3-4971-9f14-0c59c6a338aa)
-![west](https://github.com/SoniyaRG/Power-BI-/assets/165175409/86ac2d29-d8ea-4057-ba9e-ab3ce5ed9d97)
+**1.US Region**<br>
+![power bi](https://github.com/SoniyaRG/Power-BI-/assets/165175409/b0122a90-4627-4995-9fda-b19c985be454)<br>
+**2.Central Region of US**<br>
+![power bi central](https://github.com/SoniyaRG/Power-BI-/assets/165175409/074b7e1e-f30c-4ea9-9faf-fcfa72cd5015)<br>
+**3.Eastern Region of US**<br>
+![east](https://github.com/SoniyaRG/Power-BI-/assets/165175409/8a4d44f1-91d3-4971-9f14-0c59c6a338aa)<br>
+**4.Western Region of US**<br>
+![west](https://github.com/SoniyaRG/Power-BI-/assets/165175409/86ac2d29-d8ea-4057-ba9e-ab3ce5ed9d97)<br>
+**5.Southern Region of US**<br>
 ![south](https://github.com/SoniyaRG/Power-BI-/assets/165175409/ed1e1eea-12a3-4e9b-af80-2b3727ea2108) <br>
 
 **Insights:**<br>
